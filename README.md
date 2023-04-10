@@ -21,4 +21,5 @@ Validate the "Adauga in Cos" and "Adauga la Favorite" buttons to ensure that the
 Test the product reviews and ratings functionality to ensure that it works correctly and displays accurate information.
 
 Note:
+
 This project that is not yet completed !
